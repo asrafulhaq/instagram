@@ -1,0 +1,38 @@
+.reg-text {
+    width: 80%;
+    text-align: center;
+    color: gray;
+    font-weight: 500;
+    font-size: 18px;
+    margin: 15px 0px;
+}
+
+.login-with-fb-register {
+    text-decoration: none;
+    padding: 5px 0px;
+    width: 80%;
+    text-align: center;
+    background-color: #299EF7;
+    color: #FFF;
+    border-radius: 4px;
+    margin-bottom: 15px;
+
+    &:hover {
+        color: #FFF;
+    }
+
+}
+
+.reg-form-text {
+    font-size: 13px;
+    font-weight: 300;
+    width: 80%;
+    color: gray;
+    text-align: center;
+
+    a {
+        text-decoration: none;
+        font-weight: 500;
+        color: gray;
+    }
+}
